@@ -1,1 +1,5 @@
 "profile" 
+
+skills
+squirrels
+stealing
